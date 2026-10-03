@@ -1,0 +1,35 @@
+# Abhängigkeiten und Werkzeugartefakte
+node_modules/
+coverage/
+.cache/
+.vite/
+.vitest/
+.eslintcache
+
+# Lokale Entwicklungsumgebungen und Editorzustand
+.vscode/
+.idea/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Lokale Konvertierungen, Prüfartefakte und Protokolle
+tmp/
+_DocToMD/
+*.conversion.json
+*.log
+*.tmp
+*.temp
+
+# Zugangsdaten und lokale Konfiguration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Entwicklungs-Sourcemaps werden nicht ausgeliefert.
+main.js.map

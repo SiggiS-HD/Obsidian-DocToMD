@@ -1,0 +1,9 @@
+{
+  "id": "doctomd",
+  "name": "DocToMD",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Konvertiert PDFs mit der lokalen DocToMD-CLI in sichere Vault-Derivate.",
+  "author": "DocToMD",
+  "isDesktopOnly": true
+}

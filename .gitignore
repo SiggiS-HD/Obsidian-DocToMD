@@ -9,6 +9,7 @@ coverage/
 # Lokale Entwicklungsumgebungen und Editorzustand
 .vscode/
 .idea/
+desktop.ini
 .venv/
 venv/
 __pycache__/
